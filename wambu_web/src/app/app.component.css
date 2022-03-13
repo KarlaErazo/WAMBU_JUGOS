@@ -1,0 +1,23 @@
+.text-red{
+    color: #13bdaf !important;
+}
+
+.fondo-red{
+    background-color: #13bdaf !important;
+    color: #fff !important;
+}
+
+.boton-red{
+    background-color: #13bdaf !important;
+    color: #fff !important;
+}
+
+.boton-red:hover{
+    background-color: #242424 !important;
+    color: #fff !important;
+}
+
+
+.click{
+    cursor: pointer !important;
+}
